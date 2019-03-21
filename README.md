@@ -5,4 +5,4 @@
 <p><b>selflink.php</b> - helps you to avoid selflink for <code>wp_nav_menu</code> objects without breaking of CSS (very useful for SEO)</p>
 <br/>
 <p><b>wp-mail-with-attachments.php</b> - helps you to know how to use <code>wp_mail</code> function with attachments if your file is uploading locally</p>
-<p><b>wp-mail-with-attachments-ajax-handler.php</b> - function of ajax handling for form which has input<code>[type="file"]</code></p> (add to functions.php)
+<p><b>wp-mail-with-attachments-ajax-handler.php</b> - function of ajax handling for form which has <code>input[type="file"]</code></p> (add to functions.php)
