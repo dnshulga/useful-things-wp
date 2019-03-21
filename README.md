@@ -1,1 +1,1 @@
-"# useful-things-wp" 
+<b>clear-unused.php</b> - helps you to remove a lot of unused modules from Wordpress (for example, emoji). Add to functions.php
